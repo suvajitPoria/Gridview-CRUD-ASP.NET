@@ -1,0 +1,11 @@
+C:\DOT_NET\Web Application Prep\Gridview-CRUD\BLL\bin\Debug\BLL.dll.config
+C:\DOT_NET\Web Application Prep\Gridview-CRUD\BLL\bin\Debug\BLL.dll
+C:\DOT_NET\Web Application Prep\Gridview-CRUD\BLL\bin\Debug\BLL.pdb
+C:\DOT_NET\Web Application Prep\Gridview-CRUD\BLL\bin\Debug\DAL.dll
+C:\DOT_NET\Web Application Prep\Gridview-CRUD\BLL\bin\Debug\DAL.pdb
+C:\DOT_NET\Web Application Prep\Gridview-CRUD\BLL\bin\Debug\DAL.dll.config
+C:\DOT_NET\Web Application Prep\Gridview-CRUD\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\DOT_NET\Web Application Prep\Gridview-CRUD\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\DOT_NET\Web Application Prep\Gridview-CRUD\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\DOT_NET\Web Application Prep\Gridview-CRUD\BLL\obj\Debug\BLL.dll
+C:\DOT_NET\Web Application Prep\Gridview-CRUD\BLL\obj\Debug\BLL.pdb

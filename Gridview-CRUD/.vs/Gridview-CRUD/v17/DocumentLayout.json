@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DOT_NET\\Web Application Prep\\Gridview-CRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5D9476E-7B5B-4699-86E0-AB6395164B99}|Gridview-CRUD\\Gridview-CRUD.csproj|c:\\dot_net\\web application prep\\gridview-crud\\gridview-crud\\gridview.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5D9476E-7B5B-4699-86E0-AB6395164B99}|Gridview-CRUD\\Gridview-CRUD.csproj|solutionrelative:gridview-crud\\gridview.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9384A581-C4CA-404F-9EEE-9F9B6694D45A}|DAL\\DAL.csproj|c:\\dot_net\\web application prep\\gridview-crud\\dal\\model\\studentinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9384A581-C4CA-404F-9EEE-9F9B6694D45A}|DAL\\DAL.csproj|solutionrelative:dal\\model\\studentinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9384A581-C4CA-404F-9EEE-9F9B6694D45A}|DAL\\DAL.csproj|C:\\DOT_NET\\Web Application Prep\\Gridview-CRUD\\dal\\dalgirdviewcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9384A581-C4CA-404F-9EEE-9F9B6694D45A}|DAL\\DAL.csproj|solutionrelative:dal\\dalgirdviewcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E643D45F-EFB5-4F0D-9C15-4C1C8F4413A2}|BLL\\BLL.csproj|C:\\DOT_NET\\Web Application Prep\\Gridview-CRUD\\bll\\bllgridviewcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E643D45F-EFB5-4F0D-9C15-4C1C8F4413A2}|BLL\\BLL.csproj|solutionrelative:bll\\bllgridviewcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5D9476E-7B5B-4699-86E0-AB6395164B99}|Gridview-CRUD\\Gridview-CRUD.csproj|C:\\DOT_NET\\Web Application Prep\\Gridview-CRUD\\gridview-crud\\gridview.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A5D9476E-7B5B-4699-86E0-AB6395164B99}|Gridview-CRUD\\Gridview-CRUD.csproj|solutionrelative:gridview-crud\\gridview.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentInfo.cs",
+              "DocumentMoniker": "C:\\DOT_NET\\Web Application Prep\\Gridview-CRUD\\DAL\\Model\\StudentInfo.cs",
+              "RelativeDocumentMoniker": "DAL\\Model\\StudentInfo.cs",
+              "ToolTip": "C:\\DOT_NET\\Web Application Prep\\Gridview-CRUD\\DAL\\Model\\StudentInfo.cs",
+              "RelativeToolTip": "DAL\\Model\\StudentInfo.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T17:24:30.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DALGirdviewCRUD.cs",
+              "DocumentMoniker": "C:\\DOT_NET\\Web Application Prep\\Gridview-CRUD\\DAL\\DALGirdviewCRUD.cs",
+              "RelativeDocumentMoniker": "DAL\\DALGirdviewCRUD.cs",
+              "ToolTip": "C:\\DOT_NET\\Web Application Prep\\Gridview-CRUD\\DAL\\DALGirdviewCRUD.cs",
+              "RelativeToolTip": "DAL\\DALGirdviewCRUD.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAcwHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T14:04:32.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BLLGridviewCRUD.cs",
+              "DocumentMoniker": "C:\\DOT_NET\\Web Application Prep\\Gridview-CRUD\\BLL\\BLLGridviewCRUD.cs",
+              "RelativeDocumentMoniker": "BLL\\BLLGridviewCRUD.cs",
+              "ToolTip": "C:\\DOT_NET\\Web Application Prep\\Gridview-CRUD\\BLL\\BLLGridviewCRUD.cs",
+              "RelativeToolTip": "BLL\\BLLGridviewCRUD.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T14:01:53.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Gridview.aspx.cs",
+              "DocumentMoniker": "C:\\DOT_NET\\Web Application Prep\\Gridview-CRUD\\Gridview-CRUD\\Gridview.aspx.cs",
+              "RelativeDocumentMoniker": "Gridview-CRUD\\Gridview.aspx.cs",
+              "ToolTip": "C:\\DOT_NET\\Web Application Prep\\Gridview-CRUD\\Gridview-CRUD\\Gridview.aspx.cs",
+              "RelativeToolTip": "Gridview-CRUD\\Gridview.aspx.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAAAF0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T19:08:21.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Gridview.aspx",
+              "DocumentMoniker": "C:\\DOT_NET\\Web Application Prep\\Gridview-CRUD\\Gridview-CRUD\\Gridview.aspx",
+              "RelativeDocumentMoniker": "Gridview-CRUD\\Gridview.aspx",
+              "ToolTip": "C:\\DOT_NET\\Web Application Prep\\Gridview-CRUD\\Gridview-CRUD\\Gridview.aspx",
+              "RelativeToolTip": "Gridview-CRUD\\Gridview.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-02-12T18:43:17.187Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
